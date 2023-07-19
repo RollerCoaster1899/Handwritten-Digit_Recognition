@@ -1,4 +1,4 @@
-# Handwritten-Digit_Recognition
+# Handwritten_Digit_Recognition
 
 1. Importing the necessary libraries:
 ```python
